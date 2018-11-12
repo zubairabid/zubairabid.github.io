@@ -4,7 +4,7 @@ subtitle:
 email: zubairabid1999@gmail.com
 description: A portfolio page in Jekyll
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "zubairabid.github.io"# the base hostname & protocol for your site
+url: ""# the base hostname & protocol for your site
 author:
 street_address: IIIT Hyderabad 
 city: Hyderabad
