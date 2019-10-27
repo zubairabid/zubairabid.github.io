@@ -2,95 +2,60 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hey, I'm Zubair
 
-[Link to another page](./another-page.html).
+I'm a 20 year old student pursuing a B.Tech in Computer Science and an MS in 
+Computational Linguistics (MS) student at **IIIT Hyderabad**. I'm expected 
+(hoping) to graduate in 2022.
 
-There should be whitespace between paragraphs.
+My current research topic is in NLP, specifically concerning _Knowledge Graphs_.
+I work in the MT-NLP Lab in IIIT Hyderabad, under the guidance of Prof. 
+Manish Shrivastava. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Link to my Projects](./projects.html)
 
-# Header 1
+I currently hold the position of my Institute's Student Web Admin, and am 
+responsible for building and deploying websites on Institute servers.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Apart from these I'm also involved in a number of clubs. I am currently the
+Editor-in-Chief for [Ping!](https://pingiiit.org/), the Student Media Body, 
+and have been Head of Tech and Head of Events for the college's 
+[Entrepreneurship Cell](https://ecell.iiit.ac.in/). I was also briefly
+involved as a designer for the Alumni Cell.
 
-## Header 2
+## Education
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### International Institute of Information Technology, Hyderabad 
+_2017 - 2022(expected)_
 
-### Header 3
+B.Tech in Computer Science, MS in Computational Linguistics
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### St. Xavier's Collegiate School, Kolkata 
+_2005 - 2017_
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Skills
 
-#### Header 4
+- Python
+- JavaScript
+- Solidity
+- Bash Scripting
+- HTML5/CSS3
+- Django
+- Java
+- Flask
+- OpenGL
+- C++
+- C
+- MySQL
+- MongoDB
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
-##### Header 5
+## My Writing
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- [Autonomous Cars: A Developing Challenge](https://pingiiit.org/echoes/2018/05/autonomous-cars-a-developing-challenge/)
+- [The Forgotten Century](https://pingiiit.org/echoes/2019/06/the-forgotten-century/)
+- [Not the Pretentious College Reviews](https://pingiiit.org/echoes/2018/05/not-the-pretentious-college-reviews/)
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -101,23 +66,3 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
