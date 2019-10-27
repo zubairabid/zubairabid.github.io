@@ -5,7 +5,7 @@ layout: default
 # Hey, I'm Zubair
 
 I'm a 20 year old student pursuing a B.Tech in Computer Science and an MS in 
-Computational Linguistics (MS) student at **IIIT Hyderabad**. I'm expected 
+Computational Linguistics (MS) student at _IIIT Hyderabad_. I'm expected 
 (hoping) to graduate in 2022.
 
 My current research topic is in NLP, specifically concerning _Knowledge Graphs_.
@@ -14,12 +14,12 @@ Manish Shrivastava.
 
 [Link to my Projects](./projects.html)
 
-I currently hold the position of my Institute's Student Web Admin, and am 
+I currently hold the position of my Institute's _Student Web Admin_, and am 
 responsible for building and deploying websites on Institute servers.
 
 Apart from these I'm also involved in a number of clubs. I am currently the
-Editor-in-Chief for [Ping!](https://pingiiit.org/), the Student Media Body, 
-and have been Head of Tech and Head of Events for the college's 
+_Editor-in-Chief_ for [Ping!](https://pingiiit.org/), the Student Media Body, 
+and have been _Head of Tech_ and _Head of Events_ for the college's 
 [Entrepreneurship Cell](https://ecell.iiit.ac.in/). I was also briefly
 involved as a designer for the Alumni Cell.
 
@@ -55,14 +55,4 @@ _2005 - 2017_
 - [Autonomous Cars: A Developing Challenge](https://pingiiit.org/echoes/2018/05/autonomous-cars-a-developing-challenge/)
 - [The Forgotten Century](https://pingiiit.org/echoes/2019/06/the-forgotten-century/)
 - [Not the Pretentious College Reviews](https://pingiiit.org/echoes/2018/05/not-the-pretentious-college-reviews/)
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
