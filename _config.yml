@@ -1,36 +1,6 @@
-# site settings
-title: Zubair Abid 
-subtitle: 
-email: zubairabid1999@gmail.com
-description: A portfolio page in Jekyll
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: ""# the base hostname & protocol for your site
-author:
-street_address: IIIT Hyderabad 
-city: Hyderabad
-state: Telangna
-zip_code: 500032
-country: India 
-phone:
-
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
-
-# social settings
-500px_url:
-facebook_url:
-github_url: https://github.com/zubairabid
-gitlab_url: https://gitlab.com/u/zubairabid1
-googleplus_url:
-instagram_url: http://instagram.com/innovativeusernamesarerare/ 
-linkedin_url: 
-pinterest_url:
-slack_url:
-twitter_url: 
-
-# build settings
-markdown: kramdown
-
-sass:
-  style: compressed
+title: Zubair Abid
+logo: /assets/img/logo.png
+description: Zubair Abid's portfolio page.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
