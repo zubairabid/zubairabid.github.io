@@ -14,7 +14,7 @@ I've done a few over the past few years
     Built a system to use the context around the occurrence of an acronym and to make an estimation as to the correct expansion intended to a reasonably high degree of accuracy.
 3. **High-Low Game in the Ethereum Blockchain** September 2019
     
-    Wrote a smart contract and tests to play the High-Low House vs Players game in Solidity.
+    Wrote a smart contract and tests to play the High-Low House vs Players game in Solidity. [Link](https://github.com/zubairabid/HighLowSolidity)
 4. **Interactive Linux Shell in C** October 2018
 
     Wrote a basic interactive Linux shell interpreter in C, supporting all basic commands like ls and cd, and process management procedures. [Link](https://github.com/zubairabid/course-shell)

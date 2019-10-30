@@ -26,7 +26,7 @@ involved as a designer for the Alumni Cell.
 ## Education
 
 #### International Institute of Information Technology, Hyderabad 
-_2017 - 2022(expected)_
+_2017 - 2022 (expected)_
 
 B.Tech in Computer Science, MS in Computational Linguistics
 
