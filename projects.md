@@ -20,14 +20,17 @@ I've done a few over the past few years
 4. **Interactive Linux Shell in C** October 2018
 
     Wrote a basic interactive Linux shell interpreter in C, supporting all basic commands like ls and cd, and process management procedures. [Link](https://github.com/zubairabid/course-shell)
+5. **Proxy Server in Python** April 2019
+
+    Made an HTTP web server that caches webpages, and implements authentication and blacklisting as part of my Computer Networks Assignment.
 5. **Basic Language Model and Tokenizer** September 2019
 
     Built an English Language Tokenizer to correctly identify numbers, email addresses, mentions, currency values, and more. Runs 5x faster than NLTK's default word_tokenize.
 
-    Made a basic n-gram language model, applied Kneyser-Ney Smoothing, and evaluated it.
+    Made a basic n-gram language model, applied Kneyser-Ney Smoothing, and evaluated it. [link](https://github.com/zubairabid/Parser_LM/)
 5. **Comparison of Image Classification techniques and Dimensionality reduction methods** November 2019
 
-    As part of our Statistical Methods in AI course, analysed different techniques for Image Classification using various datasets. Also compared multiple dimensionality reduction methods (Eigenfaces, Fisherfaces, Resnet) to gauge the most effective.
+    As part of our Statistical Methods in AI course, analysed different techniques for Image Classification using various datasets. Also compared multiple dimensionality reduction methods (Eigenfaces, Fisherfaces, Resnet) to gauge the most effective. [link](https://github.com/zubairabid/SMAI_Assignment2)
 5. **Analysis of Gendered Pronoun Usage in Corporate Environments** April 2018
 
     Analysed an extension of the Enron email corpus to note patterns in usage of gender-neutral pronouns across social strata in a corporate environment [Link](https://github.com/zubairabid/LingoProject)
