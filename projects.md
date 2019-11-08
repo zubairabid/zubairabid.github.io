@@ -12,17 +12,17 @@ I've done a few over the past few years
     Creating a pipeline for polarity classification of Bengali news articles using multiple methods, and comparing the results using three different methods of evaluation [Link](https://github.com/zubairabid/CL2-Project)
 2. **Acronym Disambiguation by word usage Analysis** November 2018
 
-    Built a system to use the context around the occurrence of an acronym and to make an estimation as to the correct expansion intended to a reasonably high degree of accuracy.
+    Built a system in a team of two to use the context around the occurrence of an acronym and to make an estimation as to the correct expansion intended to a reasonably high degree of accuracy.
 
 3. **High-Low Game in the Ethereum Blockchain** September 2019
     
-    Wrote a smart contract and tests to play the High-Low House vs Players game in Solidity. [Link](https://github.com/zubairabid/HighLowSolidity)
+    Wrote a smart contract and tests in a team of two to play the High-Low House vs Players game in Solidity. [Link](https://github.com/zubairabid/HighLowSolidity)
 4. **Interactive Linux Shell in C** October 2018
 
     Wrote a basic interactive Linux shell interpreter in C, supporting all basic commands like ls and cd, and process management procedures. [Link](https://github.com/zubairabid/course-shell)
 5. **Proxy Server in Python** April 2019
 
-    Made an HTTP web server that caches webpages, and implements authentication and blacklisting as part of my Computer Networks Assignment.
+    Made an HTTP web server in a team of two that caches webpages, and implements authentication and blacklisting as part of my Computer Networks Assignment. [link](https://github.com/cathreya/Proxy-Server)
 5. **Basic Language Model and Tokenizer** September 2019
 
     Built an English Language Tokenizer to correctly identify numbers, email addresses, mentions, currency values, and more. Runs 5x faster than NLTK's default word_tokenize.
@@ -45,11 +45,11 @@ I've done a few over the past few years
     Made an implementation of Mario on the terminal without sprites, pygame, or any external libraries other than numpy and colorama. [Link](https://github.com/zubairabid/mario-console)
 9. **Instagram clone** April 2018
 
-    As part of our ITWS-II course, made an Instagram clone with Flask (Python), JQuery, and AJAX Requests with support for posting, liking, commenting, following, and notifications. [Link](https://github,com/zubairabid/Picture)
+    As part of our ITWS-II course, made an Instagram clone with Flask (Python), JQuery, and AJAX Requests with support for posting, liking, commenting, following, and notifications. Team of two. [Link](https://github,com/zubairabid/Picture)
 
 10. **E-Cell IIIT Hyderabad Website** June 2018
 
-    Completely redesigned the Website for E-Cell, IIIT Hyderabad. Used Jekyll as a static site generator. [Link](https://web.archive.org/web/20190304011402/https://ecell.iiit.ac.in/)
+    Led a team of three to completely redesign the Website for E-Cell, IIIT Hyderabad. Used Jekyll as a static site generator. [Link](https://web.archive.org/web/20190304011402/https://ecell.iiit.ac.in/)
 
 11. **Megathon 2018 Website** July 2018
 
