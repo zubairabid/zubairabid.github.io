@@ -16,13 +16,13 @@ I've done a few over the past few years
 
 3. **High-Low Game in the Ethereum Blockchain** September 2019
     
-    Wrote a smart contract and tests in a team of two to play the High-Low House vs Players game in Solidity. [Link](https://github.com/zubairabid/HighLowSolidity)
+    Wrote a smart contract and tests, in a team of two, to play the High-Low House vs Players game in Solidity. [Link](https://github.com/zubairabid/HighLowSolidity)
 4. **Interactive Linux Shell in C** October 2018
 
     Wrote a basic interactive Linux shell interpreter in C, supporting all basic commands like ls and cd, and process management procedures. [Link](https://github.com/zubairabid/course-shell)
 5. **Proxy Server in Python** April 2019
 
-    Made an HTTP web server in a team of two that caches webpages, and implements authentication and blacklisting as part of my Computer Networks Assignment. [link](https://github.com/cathreya/Proxy-Server)
+    Made an HTTP web server in a team of two that caches webpages and implements authentication and blacklisting as part of my Computer Networks Assignment. [link](https://github.com/cathreya/Proxy-Server)
 5. **Basic Language Model and Tokenizer** September 2019
 
     Built an English Language Tokenizer to correctly identify numbers, email addresses, mentions, currency values, and more. Runs 5x faster than NLTK's default word_tokenize.
