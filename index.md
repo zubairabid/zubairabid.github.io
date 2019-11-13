@@ -12,7 +12,7 @@ My current research topic is in NLP, specifically concerning _Knowledge Graphs_.
 I work in the MT-NLP Lab in IIIT Hyderabad, under the guidance of Prof. 
 Manish Shrivastava. 
 
-[Link to my Projects](./projects.html)
+[Link to my Projects](./projects)
 
 I currently hold the position of my Institute's _Student Web Admin_, and am 
 responsible for building and deploying websites on Institute servers.
@@ -51,6 +51,8 @@ _2005 - 2017_
 
 
 ## My Writing
+
+I'm trying my best to maintain a [blog](./posts) on the website.
 
 - [Autonomous Cars: A Developing Challenge](https://pingiiit.org/echoes/2018/05/autonomous-cars-a-developing-challenge/)
 - [The Forgotten Century](https://pingiiit.org/echoes/2019/06/the-forgotten-century/)

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Projects
 ---
 
 # Projects
@@ -57,4 +58,4 @@ I've done a few over the past few years
 
 
 
-[back](./)
+[<-- Back](./)
