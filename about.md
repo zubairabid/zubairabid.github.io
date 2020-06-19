@@ -3,17 +3,17 @@ layout: default
 ---
 
 
-## Education
+# Education
 
-#### International Institute of Information Technology, Hyderabad 
+## International Institute of Information Technology, Hyderabad 
 _2017 - 2022 (expected)_
 
 B.Tech in Computer Science, MS in Computational Linguistics
 
-#### St. Xavier's Collegiate School, Kolkata 
+## St. Xavier's Collegiate School, Kolkata 
 _2005 - 2017_
 
-## Skills
+# Skills
 
 - Python
 - JavaScript

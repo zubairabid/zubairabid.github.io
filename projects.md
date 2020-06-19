@@ -7,7 +7,23 @@ title: Projects
 
 I've done a few over the past few years
 
+## Non-coursework and open-source contributions
 
+1. **Discord Quiz Bot** March 2020 - Present
+    
+    Worked on [Harish Krishna's bot for conducting discord quizzes](https://github.com/harishkrishnav/PounceScoreBounceBot), that is based on an [earlier project by me](https://github.com/zubairabid/QuizPounceBot) to implement send-only channels in discord (for pouncing in quizzes). Worked on code cleanup, and added slide-sharing as pictures functionality.
+2. **The Neovim Project** March 2020 - Present
+    
+    Contributing bugfixes to [neovim](https://github.com/neovim/neovim). [Link to latest PR](https://github.com/neovim/neovim/pull/12010)
+
+## Course Projects
+
+1. **Hybrid MT: Implementation of UVR-NMT** April 2020
+    
+    Implemented the [Neural Machine Translation with Universal Visual Representation](https://openreview.net/forum?id=Byl8hhNYPS) paper in a team of two as part of a NLP Applications course project, for EN-FR translation. Also implemented basic Attention for the baseline. [Link](https://github.com/zubairabid/hybrid-mt)
+2. **Learning Bilingual word embeddings with minimal bilingual data** November 2019
+    
+    Implemented [Learning bilingual word embeddings with (almost) no bilingual data](http://aclweb.org/anthology/P17-1042) in a team of two as part of a NLP course project, for EN-HI data. [Link](https://github.com/akshayg08/NLP-Project)
 1. **Sentiment Classification for Bengali News Articles** May 2019
     
     Creating a pipeline for polarity classification of Bengali news articles using multiple methods, and comparing the results using three different methods of evaluation [Link](https://github.com/zubairabid/CL2-Project)
@@ -48,13 +64,16 @@ I've done a few over the past few years
 
     As part of our ITWS-II course, made an Instagram clone with Flask (Python), JQuery, and AJAX Requests with support for posting, liking, commenting, following, and notifications. Team of two. [Link](https://github,com/zubairabid/Picture)
 
-10. **E-Cell IIIT Hyderabad Website** June 2018
+## Miscellaneous Projects
+
+1. **E-Cell IIIT Hyderabad Website** June 2018
 
     Led a team of three to completely redesign the Website for E-Cell, IIIT Hyderabad. Used Jekyll as a static site generator. [Link](https://web.archive.org/web/20190304011402/https://ecell.iiit.ac.in/)
 
-11. **Megathon 2018 Website** July 2018
+2. **Megathon 2018 Website** July 2018
 
     Redesigned and deployed the website for Megathon 2018. [Link](https://web.archive.org/web/20181103032040/megathon.in)
+
 
 
 
