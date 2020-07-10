@@ -25,7 +25,7 @@ involved as a designer for the Alumni Cell.
 
 [To get to know more about me, check out this page](./about)
 
-[Resume](./ZubairAbid_2page.pdf)
+[Resume](./Zubair_1page_20200710.pdf)
 
 ## My Writing
 
