@@ -32,8 +32,12 @@ involved as a designer for the Alumni Cell.
 
 ## My Writing
 
+I absolutely detest writing. Here's some selected articles that I've written
+for Ping!. 
+
 - [Autonomous Cars: A Developing Challenge](https://pingiiit.org/echoes/2018/05/autonomous-cars-a-developing-challenge/)
 - [10 Years of Ping!](https://pingiiit.org/2020/03/10-years-of-ping/)
 - [The Forgotten Century](https://pingiiit.org/echoes/2019/06/the-forgotten-century/)
 - [Not the Pretentious College Reviews](https://pingiiit.org/echoes/2018/05/not-the-pretentious-college-reviews/)
 
+Here's my [blog](./posts).
