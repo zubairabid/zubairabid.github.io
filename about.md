@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 # Education
 
 ## International Institute of Information Technology, Hyderabad 
@@ -15,19 +14,45 @@ _2005 - 2017_
 
 # Skills
 
+## Regular Use
+
+### Languages 
+
 - Python
+- C++
 - JavaScript
-- Solidity
 - Bash Scripting
 - HTML5/CSS3
-- Django
-- Java
-- Flask
-- OpenGL
-- C++
+
+### Tools
+
+- nginx
+- Jekyll
+- Linux (CentOS/Arch Linux)
+
+## Familiar 
+
+### Languages
+
 - C
+- Java
+
+### Tools
+
+- Flask
+- Apache webserver
+
+## Used
+
+## Languages
+
+- Solidity
+- OpenGL
+
+### Tools
+
+- Django
 - MySQL
 - MongoDB
-
 
 [<-- Back](./)

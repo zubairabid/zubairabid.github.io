@@ -4,7 +4,7 @@ layout: default
 
 # Hey, I'm Zubair
 
-I'm a 21 year old student pursuing a B.Tech in Computer Science and an MS in 
+I'm a 4th Year Undergrad pursuing a B.Tech in Computer Science and an MS in 
 Computational Linguistics (MS) student at [_IIIT Hyderabad_](https://www.iiit.ac.in/). 
 I'm expected (hoping) to graduate in 2022.
 
@@ -25,7 +25,7 @@ involved as a designer for the Alumni Cell.
 
 [To get to know more about me, check out this page](./about)
 
-[Resume](./Zubair_1page_20200710.pdf)
+[Resume](./Zubair_1page.pdf)
 
 ## My Writing
 
