@@ -9,7 +9,8 @@ Computational Linguistics (MS) student at
 [_IIIT Hyderabad_](https://www.iiit.ac.in/). 
 I'm expected (hoping) to graduate in 2022.
 
-My current research topic is in NLP, specifically concerning _Knowledge Graphs_.
+My current research topic is in NLP, specifically concerning _Language 
+Embeddings_. I have worked a bit on _Knowledge Graphs_ in the past.
 I work in the MT-NLP Lab in IIIT Hyderabad, under the guidance of Prof. 
 [Manish Shrivastava](https://scholar.google.co.in/citations?user=sIvMnGQAAAAJ&hl=en). 
 
