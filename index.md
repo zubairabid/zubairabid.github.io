@@ -12,7 +12,7 @@ I'm expected (hoping) to graduate in 2022.
 My current research topic is in NLP, specifically concerning _Language 
 Embeddings_. I have worked a bit on _Knowledge Graphs_ in the past.
 I work in the MT-NLP Lab in IIIT Hyderabad, under the guidance of Prof. 
-[Manish Shrivastava](https://scholar.google.co.in/citations?user=sIvMnGQAAAAJ&hl=en). 
+[Manish Shrivastava]. 
 
 [Link to my Projects](./projects)
 
@@ -42,3 +42,6 @@ for Ping!.
 - [Not the Pretentious College Reviews](https://pingiiit.org/echoes/2018/05/not-the-pretentious-college-reviews/)
 
 Here's my [blog](./posts).
+
+
+[Manish Shrivastava]: https://scholar.google.co.in/citations?user=sIvMnGQAAAAJ&hl=en

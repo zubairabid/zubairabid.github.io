@@ -41,7 +41,7 @@ I've done a few over the past few years
     [Link](https://github.com/zubairabid/hybrid-mt)
 2. **Learning Bilingual word embeddings with minimal bilingual data** November 2019
     
-    Implemented [Learning bilingual word embeddings with (almost) no bilingual data](http://aclweb.org/anthology/P17-1042)
+    Implemented [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings](http://aclweb.org/anthology/P18-1073)
     in a team of two as part of a NLP course project, for EN-HI data. 
     [Link](https://github.com/akshayg08/NLP-Project)
 1. **Sentiment Classification for Bengali News Articles** May 2019
