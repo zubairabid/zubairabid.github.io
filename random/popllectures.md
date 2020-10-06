@@ -4,19 +4,31 @@ title: POPL Lecture Links
 author: Zubair Abid
 ---
 
-[link to lecture 3]
-[link to lecture 4]
-[link to lecture  5]
-[link to lecture 6]
-[link to lecture 7]
-[link to lecture 8]
-[link to lecture 9]
-[link to lecture 10]
-[link to lecture 11]
-[link to lecture 12]
-[link to lecture 13]
-[link to lecture 14]
-[link to lecture 15]
+[link to lecture 3] 18-08-2020
+
+[link to lecture 4] 21-08-2020
+
+[link to lecture  5] 25-08-2020
+
+[link to lecture 6] 28-08-2020
+
+[link to lecture 7] 01-09-2020
+
+[link to lecture 8] 04-09-2020
+
+[link to lecture 9] 08-09-2020
+
+[link to lecture 10] 11-09-2020
+
+[link to lecture 11] 18-09-2020
+
+[link to lecture 12] 22-09-2020
+
+[link to lecture 13] 25-09-2020
+
+[link to lecture 14] 29-09-2020
+
+[link to lecture 15] 02-10-2020
 
 
 
