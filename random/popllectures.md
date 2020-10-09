@@ -30,6 +30,8 @@ author: Zubair Abid
 
 [link to lecture 15] 02-10-2020
 
+[link to lecture 16] 06-10-2020
+
 
 
 [link to lecture 3]: https://www.youtube.com/playlist?list=PL8C7LmL6BGm3GRXdtIaw6qtqFhU3U10Dl
@@ -44,5 +46,6 @@ author: Zubair Abid
 [link to lecture 12]: https://web.microsoftstream.com/video/eb5d1670-00d6-45e9-a446-553383264c91
 [link to lecture 13]: https://web.microsoftstream.com/video/b6bcd73d-327a-4ac7-b1c3-f757b93453de
 [link to lecture 14]: https://web.microsoftstream.com/video/7b84fff6-45df-4a3b-a8cb-d08a5e868416
-[link to lecture 15]: https://web.microsoftstream.com/video/ac9e0720-d013-4d7c-bb7d-15656fa17473
+[link to lecture 16]: https://web.microsoftstream.com/video/40e05cdf-fad9-4c28-bf88-921570aa7fbf
+[link to lecture 16]: https://web.microsoftstream.com/video/ac9e0720-d013-4d7c-bb7d-15656fa17473
 
