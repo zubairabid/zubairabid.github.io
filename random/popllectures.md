@@ -8,7 +8,7 @@ author: Zubair Abid
 
 [link to lecture 4] 21-08-2020
 
-[link to lecture  5] 25-08-2020
+[link to lecture 5] 25-08-2020
 
 [link to lecture 6] 28-08-2020
 
@@ -32,11 +32,14 @@ author: Zubair Abid
 
 [link to lecture 16] 06-10-2020
 
+[link to lecture 17] 09-10-2020
+
+[link to lecture 18] 13-10-2020
 
 
 [link to lecture 3]: https://www.youtube.com/playlist?list=PL8C7LmL6BGm3GRXdtIaw6qtqFhU3U10Dl
 [link to lecture 4]: https://www.youtube.com/watch?v=cMxGYUwT6Zg
-[link to lecture  5]: https://web.microsoftstream.com/video/d2991309-eba1-4b96-9851-d0d1cd6d6c65
+[link to lecture 5]: https://web.microsoftstream.com/video/d2991309-eba1-4b96-9851-d0d1cd6d6c65
 [link to lecture 6]: https://web.microsoftstream.com/video/f4ae66c6-257c-43f6-80c0-5c56fa8355f4
 [link to lecture 7]: https://web.microsoftstream.com/video/59ec545f-3029-4d10-a98b-48449a19bdbb
 [link to lecture 8]: https://web.microsoftstream.com/video/a64909ab-ad6c-4413-859f-954758f38eac
@@ -48,4 +51,5 @@ author: Zubair Abid
 [link to lecture 14]: https://web.microsoftstream.com/video/7b84fff6-45df-4a3b-a8cb-d08a5e868416
 [link to lecture 15]: https://web.microsoftstream.com/video/40e05cdf-fad9-4c28-bf88-921570aa7fbf
 [link to lecture 16]: https://web.microsoftstream.com/video/ac9e0720-d013-4d7c-bb7d-15656fa17473
-
+[link to lecture 17]: https://web.microsoftstream.com/video/ced49f12-9f52-441a-97e6-93cd76b8e751
+[link to lecture 18]: https://web.microsoftstream.com/video/b610d8ee-a88c-4dd0-889e-0f226ff99e5e
