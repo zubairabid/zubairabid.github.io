@@ -16,8 +16,11 @@ I work in the MT-NLP Lab in IIIT Hyderabad, under the guidance of Prof.
 
 [Link to my Projects](./projects)
 
-I currently hold the position of my Institute's _Student Web Admin_, since
-July 2019, and am responsible for building and deploying websites on 
+I current hold the position of Teaching Assistant for the course: 
+"Literature, History and Belonging in Hyderabad". Previously, I 
+held the position of my Institute's _Student Web Admin_, from July 2019 to 
+December 2020, and was
+responsible for building and deploying websites on 
 Institute servers.
 
 Apart from these I'm also involved in a number of clubs. I am currently
