@@ -27,7 +27,8 @@ some specifics/quirks.
 - This has to be configured per-OS installed, per-laptop. This is also
   considered a Good Thing by me.
 - If you have Windows installed this will not work on Windows. Or any other OS
-  installed on the system. It's obvious, but worth mentioning.
+  installed on the system. It's obvious, but worth mentioning. For my Windows
+  install, I used the same blog [to configure AutoHotkey]
 - The `Left Control` remains as a Control key. This is useful because,
 - Sometimes in games and other situations holding down Caps is not recognised as
   pressing Control [^loss]. This is when the Left Control still functioning as a
@@ -38,6 +39,7 @@ solid mod otherwise, well worth doing.
 
 [Danny Guo's blog]: https://www.dannyguo.com/blog/remap-caps-lock-to-escape-and-control/
 [caps2esc]: https://gitlab.com/interception/linux/plugins/caps2esc
+[to configure AutoHotkey]: https://www.dannyguo.com/blog/remap-caps-lock-to-escape-and-control/#windows
 
 [^loss]: An example - pressing Ctrl+Left and expecting to go back one word in Google Docs. Will not work.
 
