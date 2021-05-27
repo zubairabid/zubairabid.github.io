@@ -7,7 +7,8 @@ layout: default
 I'm a 4th Year Undergrad pursuing a B.Tech in Computer Science and an MS in 
 Computational Linguistics (MS) student at 
 [_IIIT Hyderabad_](https://www.iiit.ac.in/). 
-I'm expected (hoping) to graduate in 2022.
+I'm expected (hoping) to graduate in 2022. I'm currently interning at Microsoft
+as an SDE Intern.
 
 My current research topic is in NLP, specifically concerning _Language 
 Embeddings_. I have worked a bit on _Knowledge Graphs_ in the past.
