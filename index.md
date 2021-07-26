@@ -7,8 +7,7 @@ layout: default
 I'm a 4th Year Undergrad pursuing a B.Tech in Computer Science and an MS in 
 Computational Linguistics (MS) student at 
 [_IIIT Hyderabad_](https://www.iiit.ac.in/). 
-I'm expected (hoping) to graduate in 2022. I'm currently interning at Microsoft
-as an SDE Intern.
+I'm expected (hoping) to graduate in 2022.
 
 My current research topic is in NLP, specifically concerning _Language 
 Embeddings_. I have worked a bit on _Knowledge Graphs_ in the past.
@@ -22,7 +21,8 @@ I current hold the position of Teaching Assistant for the course:
 held the position of my Institute's _Student Web Admin_, from July 2019 to 
 December 2020, and was
 responsible for building and deploying websites on 
-Institute servers.
+Institute servers. In Summer 2021, I interned at Microsoft as a Software
+Developer.
 
 Apart from these I'm also involved in a number of clubs. I am currently
 a writer for [Ping!](https://pingiiit.org/), the Student Media Body, and was 
