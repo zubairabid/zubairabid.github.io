@@ -4,7 +4,7 @@ layout: default
 
 # Hey, I'm Zubair
 
-I'm a 4th Year Undergrad pursuing a B.Tech in Computer Science and an MS in 
+I'm a 5th Year student pursuing a B.Tech in Computer Science and an MS in 
 Computational Linguistics (MS) student at 
 [_IIIT Hyderabad_](https://www.iiit.ac.in/). 
 I'm expected (hoping) to graduate in 2022.
@@ -16,8 +16,9 @@ I work in the MT-NLP Lab in IIIT Hyderabad, under the guidance of Prof.
 
 [Link to my Projects](./projects)
 
-I current hold the position of Teaching Assistant for the course: 
-"Literature, History and Belonging in Hyderabad". Previously, I 
+I current hold the position of Teaching Assistant for the course "Introduction
+to Literature". Previously, I TA-ed 
+"Literature, History and Belonging in Hyderabad" in Spring 2021, and have
 held the position of my Institute's _Student Web Admin_, from July 2019 to 
 December 2020, and was
 responsible for building and deploying websites on 
@@ -37,7 +38,7 @@ involved as a designer for the Alumni Cell.
 
 ## My Writing
 
-I absolutely detest writing. Here's some selected articles that I've written
+I absolutely detest writing. Here's some select articles that I've written
 for Ping!. 
 
 - [Autonomous Cars: A Developing Challenge](https://pingiiit.org/echoes/2018/05/autonomous-cars-a-developing-challenge/)
