@@ -3,7 +3,7 @@ layout: post
 title: Caps Lock as Escape and Control revisited
 author: Zubair Abid
 categories: [Configuration]
-tags: [linux, setup, ergonomics, configuration]
+tags: [linux, emacs pinky, setup, ergonomics, configuration]
 ---
 
 As I've said [before](./escapectrl),
@@ -19,7 +19,7 @@ of tapping `Esc`, which is not the greatest key to accidentally tap.
 # Using Interception Tools' Dual function keys
 
 I've talked about the plugin in [the post about trying to setup home row
-mods](./escapectrl).
+mods](./homerow_interception_1).
 
 Install [interception-tools] and [dual function keys]. The installation process
 is available at the links; for Arch systems you can run
