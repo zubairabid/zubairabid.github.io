@@ -3,7 +3,7 @@ layout: post
 title: Caps Lock as Escape and Control revisited
 author: Zubair Abid
 categories: [Configuration]
-tags: [keyboards, setup, ergonomics, configuration]
+tags: [linux, setup, ergonomics, configuration]
 ---
 
 As I've said [before](./escapectrl),

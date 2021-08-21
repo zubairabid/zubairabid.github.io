@@ -3,7 +3,7 @@ layout: post
 title: Attempting to setup Home Row mods with Interception tools -- Part 1
 author: Zubair Abid
 categories: [Configuration]
-tags: [keyboards, setup, ergonomics, configuration]
+tags: [linux, emacs pinky, keyboards, setup, ergonomics, configuration]
 ---
 
 This is a log of sorts of the first time I tried to setup home row mods on my
