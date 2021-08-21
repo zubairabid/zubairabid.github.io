@@ -4,4 +4,4 @@ description: Undergraduate at IIIT Hyderabad. Work at NLP Lab, Language Technolo
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-permalink: /:title:output_extpermalink:
+permalink: /:title.html

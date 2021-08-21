@@ -16,7 +16,8 @@ skip to [process](#process) for the main content.
 
 # Context
 
-I want to be comfortable using my keyboard to navigate about my computer. So far
+I want to be comfortable using my keyboard to navigate about my computer.
+So far:
 i3, vim keybindings everywhere that is sane, relearning how to type from
 scratch, and [a little script that converts](./capsesc_dual)
 my Caps Lock key to a combined Escape and Control have helped. I've also ordered
@@ -50,9 +51,8 @@ time, often 200ms or so to provide an example) registers on the computer as 'a',
 but holding it returns `Alt` (or any other key -- how you configure it is up to
 you). Accordingly, the four modifiers are assigned some combination of `a`, `s`,
 `d`, and `f`. This is mirrored to the other side on `j`, `k`, `l`, `;` to ensure
-that all keys are available to enter (if you wanted to enter `Shift+d` and the
-only key for `Shift` was hold+`d`, that would only be possible if another key
-was also able to shift). It has (in my limited testing) significant ergonomic
+that all keys are available at all times.
+It has (in my limited testing) significant ergonomic
 benefits. However, this configuration is usually done using keyboard firmware
 known as QMK, which does not run on many cheap mass-produced boards -- like the
 ones I have (for now).
@@ -131,7 +131,7 @@ There are some quirks here I want to discuss first.
   So I have on previous occasions used
   `/etc/udevmon.yaml` to configure interception. The documentation specifies
   both `/etc/interception/udevmon.yaml` and a variety of subfolders such as 
-  `/etc/interception/dual-function-keys/<name>.yaml` and others, and there is
+  `/etc/interception/dual-function-keys/<name>.yaml` and others. There is
   also a `/etc/interception/udevmon.d/` in which the files can possibly go.
 
   However, **nothing but `/etc/interception/udevmon.yaml` worked**,
@@ -170,10 +170,9 @@ it is very easy to
    type "le", as it was read as `Super` + `e` instead, which changes a layout
    option in i3.
 
-The issue is simple: when typing quickly,
-it is very common to type a letter, and while the letter
-is still pressed (but for no longer than the tap configuration of 200ms) tap
-another letter. Essentially,
+The issue is simple: when typing quickly, it is common to "slide" across letters
+-- start typing the next letter while the previous one is still pressed down.
+Essentially,
 
 Current:
 
@@ -184,7 +183,7 @@ keyboard:       l↓       e↓   l↑       e↑
 computer sees:  Super↓   e↓   Super↑   e↑
 ```
 
-This is suboptimal, and under ideal conditions the behaviour would be similar
+This is suboptimal, and under ideal conditions, the behaviour would be similar
 to:
 
 Desired:
