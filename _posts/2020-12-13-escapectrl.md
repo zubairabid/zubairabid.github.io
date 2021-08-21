@@ -6,6 +6,9 @@ categories: [Configuration]
 tags: [linux, ergonomics, emacs pinky, configuration, setup] 
 ---
 
+**Update, 2021-08-21:** I currently use `dual function keys` instead. Check
+[this post](./capsesc_dual)
+
 My keyboard is configured (at the OS software level) to recognise a tap of the
 Caps Lock key as Escape, and holding it down as Control. Why? Ergonomic
 benefits, RSI, etc. It isn't perfect, but better than the default for specific

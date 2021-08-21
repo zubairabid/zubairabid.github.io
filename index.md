@@ -22,8 +22,8 @@ to Literature". Previously, I TA-ed
 held the position of my Institute's _Student Web Admin_, from July 2019 to 
 December 2020, and was
 responsible for building and deploying websites on 
-Institute servers. In Summer 2021, I interned at Microsoft as a Software
-Developer.
+Institute servers. In Summer 2021, I worked at Microsoft as a Software
+Engineering Intern.
 
 Apart from these I'm also involved in a number of clubs. I am currently
 a writer for [Ping!](https://pingiiit.org/), the Student Media Body, and was 
