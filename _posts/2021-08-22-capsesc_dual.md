@@ -25,7 +25,7 @@ Install [interception-tools] and [dual function keys]. The installation process
 is available at the links; for Arch systems you can run
 `sudo pacman -Syu interception-tools interception-dual-function-keys`.
 
-Then, configuration. Setup the following job
+Then, configuration. Setup the following job in
 `/etc/interception/udevmon.yaml`:
 
 ```yaml
@@ -53,7 +53,7 @@ MAPPINGS:
 ## Caveat with multiple configs
 
 Generally, caveats as mentioned in the [home row mods
-post](./homerow_interception_1) apply. The key details
+post](./homerow_interception_1#configuration) apply. The key details
 are to ensure that
 
 1. The udev file should be stored in `/etc/interception/udevmon.yaml`

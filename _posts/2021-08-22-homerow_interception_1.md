@@ -14,6 +14,9 @@ The first two sections are essentially information (fluff?) on what home
 row mods are, so
 skip to [process](#process) for the main content.
 
+- Contents
+{:toc}
+
 # Context
 
 I want to be comfortable using my keyboard to navigate about my computer.
