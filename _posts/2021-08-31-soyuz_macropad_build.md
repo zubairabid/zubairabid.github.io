@@ -21,6 +21,9 @@ Config: ~~Since this is my first use of QMK, this will also log my initial QMK
 setup.~~ The initial plan was to also showcase the configuration in this post,
 but I am lazy and time is short. It will come in the next post, maybe.
 
+This build does not use a tactile reset switch (I use tweezers directly) but it
+is recommended if you can get your hands on some.
+
 - Contents
 {:toc}
 
