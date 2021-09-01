@@ -14,8 +14,8 @@ a functional macropad.
 This is not the proper build guide, I'm not using stabilisers for example. For 
 that [I'd recommend the build guide on ai03's
 github](https://github.com/ai03-2725/Soyuz/blob/master/BuildGuide-English.md).
-Although there are some oversights I'll be covering in this log with respect to
-microcontroller and diode soldering.
+There are some oversights in that text guide with respect to
+microcontroller and diode soldering that I'll be covering in this blog.
 
 Config: ~~Since this is my first use of QMK, this will also log my initial QMK 
 setup.~~ The initial plan was to also showcase the configuration in this post,
@@ -71,8 +71,8 @@ socketing the microcontroller.
 ## Socketing the microcontroller
 
 **Important:** If you are not socketing your microcontroller, install the 
-switches first. The microcontroller once installed, blocks two switch holes so
-they cannot be soldered in after the fact, unless you desolder the
+switches first. The microcontroller once installed, blocks two switch holes, so
+the switches cannot be soldered in after the fact. Unless you desolder the
 microcontroller -- and good luck with that.
 
 **Even more important:**
@@ -95,7 +95,7 @@ some 28-pin machined sockets I had to clip to size. [This is a good resource for
 how to socket your
 microcontroller](https://www.40percent.club/p/socketing-pro-micro.html), but
 I'll reproduce the basics on here. Socketing is generally a good idea even if
-you don't plan on switching out the microcontroller -- if you mess up soldering
+you don't plan on switching out the microcontroller. If you mess up soldering
 while building it, sockets
 are far cheaper and more disposable.
 
@@ -135,7 +135,7 @@ PCB would fall off as it was not soldered in with the switches, but that proved
 to not be a concern in the short test I did.
 
 The concern was that after socketing the microcontroller, there is almost no
-clearance for the USB cable as the port is inset (This will depend on the
+clearance for the USB cable as the port is inset (this will depend on the
 sockets you get). In my case, there is barely enough clearance on soldering
 switches in, but when mill-maxed (as the switch sits a bit higher, and thus the
 PCB a bit lower), there is none.
