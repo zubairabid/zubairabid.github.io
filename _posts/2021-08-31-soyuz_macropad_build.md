@@ -2,7 +2,7 @@
 layout: post
 title: Building the ai03 Soyuz
 author: Zubair Abid
-categories: [Configuration]
+categories: [Keyboards]
 tags: [keyboards, build log]
 ---
 
