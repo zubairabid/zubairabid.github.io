@@ -8,6 +8,9 @@ tags: [discovery, linux, kvm, qemu, libvirt, os]
 
 Not so much a guide as it is a learning-log of sorts.
 
+A head-empty-no-thoughts guide is shortlinked
+[here](#the-no-thoughts-head-empty-guide).
+
 # Figuring out basics of virtualization
 
 The goal is to understand at least a little bit of what I do.
@@ -89,9 +92,21 @@ Again, I'm not sure _exactly_ what is needed for the task, but this should
 suffice. I'm using pacman, adjust as necessary.
 
 ```sh
-$ sudo pacman -Syu qemu qemu-arch-extra libvirt lxc arch-install-scripts
-iptables-nft dnsmasq bridge-utils openbsd-netcat virt-viewer virt-manager
-virt-install dmidecode
+$ sudo pacman -Syu \
+  qemu \
+  qemu-arch-extra \
+  libvirt \
+  lxc \
+  arch-install-scripts \
+  iptables-nft \
+  dnsmasq \
+  bridge-utils \
+  openbsd-netcat \
+  virt-viewer \
+  virt-manager \
+  virt-install \
+  dmidecode \
+  dhclient
 ```
 
 Things I am sure we need: `qemu`, `libvirt`, `lxc`, `bridge-utils`,
@@ -123,7 +138,111 @@ From what I can tell, this has primarily two parts:
    ```sh
    sudo gpasswd -a zubair libvirt
    ```
+At this point, I had to restart my computer to make networking work. Maybe not 
+_had_ to, but I did it anyway.
 
+## Creating a VM
+
+I'm making an Elementary VM, using `virt-manager`. Easy enough: ensure
+`libvirtd` is active with `sudo systemctl start libvirtd`, start up
+`virt-manager`, create a new VM with an elementary ISO I have lying about.
+Allocate 2GB memory, 2 cores of CPU, and 20GB storage. It's just an experimental
+one anyway. The storage is in my root partition, which is a bit smaller than I'd
+like it to be given that I now know VMs are installed to root, by default. I'll
+check if I can install to home instead, while still being a `qemu:///system`
+instance.
+
+Anyway, installation was painless.
+
+I'm now trying the `/home` install with ubuntu server, and also trying to
+install it with `virt-install` instead of directly through `virt-manager`'s UI.
+
+```sh
+virt-install \
+  --name ubuntuserver \
+  --ram 2048 \
+  --disk path=/home/zubair/Images/ubuntu.qcow2,size=16 \
+  --vcpus 2 \
+  --os-type linux \
+  --os-variant generic \
+  --console pty,target_type=serial \
+  --cdrom /home/zubair/Downloads/ISOs/ubuntu-20.04.3-live-server-amd64.iso
+```
+I keep getting "failed to unmount cdrom".
+
+But it works. Installed, restarted, and logged in using SSH.
+
+**What if I want to use `virt-manager` with a custom storage for the image?**
+
+- Right click on the "QEMU/KVM" that should be right on top
+- Click on "Details"
+- Go to the "Storage" tab
+- Add a pool on the left column, with the "+". Call it what you will,
+  and set the path to wherever you wish.
+- Inside the pool, Click "+" on the "Volumes" option.
+- Name it, give it the `qcow2` format, and allocate the capacity.
+- When installing the system, in step 4, select custom storage. Alternatively,
+  you should be able to do all the previous steps in this step itself.
+
+And that's it for part one!
+
+# The no-thoughts-head-empty guide
+
+I do not recommend this, but it should be possible to set up the whole system
+without knowing anything you're doing. Kinda like `VMWare`, really.
+
+1. Check that hardware virtualization is enabled:
+  
+   ```sh
+   LC_ALL=C lscpu | grep Virtualization
+   ```
+   
+   It should return "AMD-V" or "VT-x". If it doesn't, check online to see if
+   your system can enable hardware virtualization.
+1. Install everything:
+   
+   ```sh
+   $ sudo pacman -Syu \
+     qemu \
+     qemu-arch-extra \
+     libvirt \
+     lxc \
+     arch-install-scripts \
+     iptables-nft \
+     dnsmasq \
+     bridge-utils \
+     openbsd-netcat \
+     virt-viewer \
+     virt-manager \
+     virt-install \
+     dmidecode \
+     dhclient
+   ```
+1. Setup permissions:
+
+   ```sh
+   sudo cp -rv /etc/libvirt/libvirt.conf ~/.config/libvirt/ && \
+   sudo chown {user}/{group} ~/.config/libvirt/libvirt.conf && \
+   echo "uri_default = \"qemu:///system\"" >> ~/.config/libvirt/libvirt.conf &&\
+   sudo gpasswd -a {user} libvirt
+   ```
+
+   You do need some thoughts here, replace {user} and {group} with what's
+   relevant. For Arch users, {group} should be `wheel`.
+
+And installation should be done! Restart your system, maybe.
+
+To start `libvirtd`, run this:
+
+```sh
+sudo systemctl start libvirtd
+```
+
+If you want it to run every time you start your system, make that 
+
+```sh
+sudo systemctl enable libvirtd
+```
 
 [octetz' intro-level guide to virtualization with KVM]: https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/
 [QEMU/KVM for absolute beginners]: https://www.youtube.com/watch?v=BgZHbCDFODk
