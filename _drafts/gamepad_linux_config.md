@@ -19,3 +19,6 @@ but my case seems to be an exception.
   on `js0` either.
 - Can use `fftest` on the one that says `event` on it.
 - On evtest, device 257 works, not device 29.
+- `evdev-joystick` shows only the `event-joystick` on it
+- When looking at `sdl2-jstest`, Gamepad 0 (with XInput in the name)
+  does not work, and Gamepad 1 works.
