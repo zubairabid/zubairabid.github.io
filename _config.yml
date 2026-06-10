@@ -1,0 +1,7 @@
+title: Zubair Abid
+logo: /assets/img/profile.jpg
+description: Undergraduate at IIIT Hyderabad. Work at NLP Lab, Language Technologies Research Center, IIIT Hyderabad.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+permalink: /:title.html
